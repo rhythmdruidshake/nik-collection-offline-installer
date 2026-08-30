@@ -27,7 +27,7 @@
 </div>
 
 <div align="center">
-<img width="2880" height="1620" alt="Nik Collection interface" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Adobe_Photoshop_2023_screenshot.png/1280px-Adobe_Photoshop_2023_screenshot.png" />
+<img width="2880" height="1620" alt="Nik Collection interface" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Adobe_Photoshop_2023_screenshot.png/1280px-Adobe_Photoshop_2023_screenshot.png" />
 </div>
 
 ---
